@@ -1,0 +1,7 @@
+@charset "utf-8";
+/* CSS Document */
+.bigbox{
+	padding-top:10%;
+	max-width: 100%;
+	overflow: hidden;/* 高度超出隐藏*/
+	margin:0 auto;/*0 auto，表示上下边界为0，左右则根据宽度自适应相同值（即居中）*/
