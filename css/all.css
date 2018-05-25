@@ -1,0 +1,41 @@
+@charset "utf-8";
+/* CSS Document */
+
+.return{
+	padding-top:1%;
+	padding-left:1%;	
+	border-style:hidden;
+	max-width:40px;
+    }
+.logo{
+	padding-bottom:10%;
+	padding-top:10%;
+	text-align: center;
+	}
+.introduce{
+	color:#FFF;
+	padding-bottom:10%;
+	padding-left:10%;
+	padding-right:10%;
+	font-size: 1.0em;/*默认字体大小为页面大小的百分之百*/
+	}	
+.bigbox{
+	padding-top:10%;
+	max-width: 100%;
+	overflow: hidden;/* 高度超出隐藏*/
+	margin:0 auto;/*0 auto，表示上下边界为0，左右则根据宽度自适应相同值（
+	即居中）*/}
+.box1{
+    float:left;
+	text-align:left;
+    width:38%;
+	color:#FFF;
+	padding-left:10%;
+	}
+.box2{
+    float:right;
+	text-align:right;
+    width:38%;
+	color:#FFF;
+	padding-right:10%;
+		}	
